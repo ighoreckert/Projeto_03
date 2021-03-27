@@ -37,7 +37,7 @@ header .logo{
 	float: left;
 	width: 160px;
 	height: 40px;
-	background-image: url('../images/logo-danki.png');
+	/*background-image: url('../images/logo-danki.png');*/
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
